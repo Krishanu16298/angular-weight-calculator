@@ -11,4 +11,4 @@ To run this program clone this project to your repository and run the following 
 ```
 npm install
 ```
-_this will install node module for running this app_
+_this will install node modules for running this app_
